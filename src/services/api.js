@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://temas-biblicos.dev.jprcdev.com/api';
+const API_BASE_URL = 'https://bibliapi.dev.jprcdev.com/api';
 
 export const fetchVersiculos = async (referencia) => {
     try {
